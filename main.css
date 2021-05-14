@@ -47,7 +47,7 @@
 	display: table;
 	border-radius: 15px;
 	padding: 1%;
-	background-color: rgba(255, 242, 223, 0.8);
+	background-color: rgba(255, 242, 223, 0.9);
 }
 .customSizeButton{
 	height: 150px;
@@ -1042,4 +1042,23 @@ label{
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
+}
+.titleLoginHeader{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin-left: 30px;
+    text-align: center;
+    letter-spacing: 4px;	
+}
+.botaoAccordionNome{
+    text-decoration: none !important;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+}
+.iconCustomizada{
+	margin-left: 5px; 
+	
 }
